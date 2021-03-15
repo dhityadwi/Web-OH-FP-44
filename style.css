@@ -37,6 +37,16 @@ ul {
     margin-right: 70px;
 }
 
+.menu li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu li a:hover {
+    color: blueviolet;
+    transition: all ease 0.5s;
+}
+
 h1 {
     text-transform: uppercase;
     font-size: 60px;
